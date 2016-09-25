@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test27_BroadcastReceiver</string>
+    <string name="send">Send</string>
+</resources>
